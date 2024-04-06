@@ -1,0 +1,11 @@
+name: graph_ga
+channels:
+  - conda-forge
+  - rdkit
+  - defaults
+dependencies:
+  - python=3.9
+  - rdkit>=2018
+  - pip
+  - pip:
+    - molscore>=1.4.1

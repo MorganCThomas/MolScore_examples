@@ -1,0 +1,3 @@
+[submodule "SMILES-RNN"]
+	path = SMILES-RNN
+	url = https://github.com/MorganCThomas/SMILES-RNN.git
