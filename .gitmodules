@@ -2,3 +2,7 @@
 	path = SMILES-RNN
 	url = https://github.com/MorganCThomas/SMILES-RNN.git
 	branch = main
+[submodule "acegen-open"]
+	path = acegen-open
+	url = https://github.com/Acellera/acegen-open
+	branch = main
